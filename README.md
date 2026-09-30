@@ -1,2 +1,2 @@
 # Edubridge_frontend
-This the project of student portfolio by edubridge.
+This the project  by edubridge.
