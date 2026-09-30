@@ -1,2 +1,2 @@
 # Edubridge_frontend
-This the project  by edubridge.
+This is the project  by edubridge.
